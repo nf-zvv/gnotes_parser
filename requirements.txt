@@ -1,0 +1,9 @@
+Package        Version  
+-------------- ---------
+beautifulsoup4 4.8.2    
+bs4            0.0.1    
+html2text      2020.1.16
+pip            20.0.2   
+setuptools     41.2.0   
+six            1.14.0   
+soupsieve      1.9.5    
